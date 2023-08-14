@@ -359,7 +359,7 @@ a:hover {
 }
 
 .projct-card-one {
-  background-image: url(/Images/Projects/Project1.png);
+  background-image: url(./Images/Projects/Project1.png);
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
