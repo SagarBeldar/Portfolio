@@ -466,17 +466,17 @@ a:hover {
 
 #two {
   margin-left: 120px;
-  background-image: url(/Images/Projects/Project2.png);
+  background-image: url(./Images/Projects/Project2.png);
 
 }
 
 #three {
-  background-image: url(/Images/Projects/Project3.png);
+  background-image: url(./Images/Projects/Project3.png);
 }
 
 #four {
   margin-left: 120px;
-  background-image: url(/Images/Projects/Project4.png);
+  background-image: url(./Images/Projects/Project4.png);
 }
 
 .projct-card-one::after {
